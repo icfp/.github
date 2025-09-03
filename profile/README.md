@@ -1,12 +1,34 @@
-## Hi there 👋
+# 🏆 (Not Official) Personal ICFP Contest Org
 
-<!--
+## A place for our ICFP contest entries
 
-**Here are some ideas to get you started:**
+### What is ICFP?
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+The International Conference on Functional Programming (ICFP) Programming Contest is a legendary 72-hour programming competition that has been running since 1998. Teams from around the world compete to solve challenging and creative problems, often involving complex algorithms, language design, or optimization challenges.
+
+### Our Mission
+
+This organization serves as a home for our team's ICFP contest submissions. Each year brings a new challenge, and we tackle them with enthusiasm, caffeine, and functional programming principles (when we remember to use them).
+
+### Contest Years
+
+- **ICFP 2024** - Our Rust-based solution 🦀
+- **ICFP 2025** - Coming September 5-8, 2025! 🚀
+
+### The ICFP Experience
+
+72 hours. One problem. Infinite possibilities. Whether it's implementing a virtual machine, optimizing space probes, or solving abstract puzzles, each contest pushes us to think creatively and code efficiently.
+
+### Tech Stack
+
+We've used various languages and tools over the years:
+- Rust for performance-critical solutions
+- Whatever else seems fun at 3 AM on day two of the contest
+
+### Join the Adventure
+
+While this is our personal organization for contest entries, we welcome fellow ICFP enthusiasts to explore our solutions and share in the joy (and occasional frustration) of competitive programming.
+
+---
+
+*"The best optimization is the one you finish before the deadline."* - Every ICFP participant, probably
